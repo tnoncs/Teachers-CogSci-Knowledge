@@ -178,8 +178,8 @@ Guidance Tips
 
 1. There are at least two ways of assessing predictions.
 2. Last year's results are this year's expectations.
-3. Are the parameter estimates changing? (way 1) # the posterior describing old data
-4. How does the new data look in last year's predictive posterior? (way 2) # how the posterior moves with the new data
+3. Are the parameter estimates changing? (way 1)
+4. How does the new data look in last year's predictive posterior? (way 2)
 
 
 ### Depending on time: Questions from the handbook
